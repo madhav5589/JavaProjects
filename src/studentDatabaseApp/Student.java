@@ -6,6 +6,7 @@ public class Student {
 	private String gradeYear;
 	private int studentId;
 	private String courses;
+	private int balance;
 	private int costOfCourse = 600;
 	
 	// Constructor prompt student to enter name and year
